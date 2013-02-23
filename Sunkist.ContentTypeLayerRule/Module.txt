@@ -1,0 +1,9 @@
+﻿Name: Content Type Layer Rule
+AntiForgery: enabled
+Author: David Hayden
+Website: http://www.davidhayden.me/
+Version: 1.6
+OrchardVersion: 1.6
+Description: Extracted the Content Type Layer Rule written by Sebastien Ros for Orchard 1.7 so we can use it in Orchard 1.6.
+Category: Widget
+Dependencies: Orchard.Widgets
