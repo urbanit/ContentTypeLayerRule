@@ -11,6 +11,8 @@ For more information, you can read the following blog post.
 
 [Orchard Content Type Widget Layer Rule](http://www.davidhayden.me/blog/orchard-content-type-widget-layer-rule)
 
+You can find the module in the [Orchard Gallery](https://gallery.orchardproject.net/List/Modules/Orchard.Module.Sunkist.ContentTypeLayerRule).
+
 Follow [@david_hayden](http://twitter.com/david_hayden) for project updates.
 
 ### v1.6 Released
